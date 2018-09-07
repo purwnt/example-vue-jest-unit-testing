@@ -1,7 +1,7 @@
 # Vue Jest Unit Testing
 Implementation of unit testing in vue.js application using jest
 
-[![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/purwnt/example-vue-jest-unit-testing/issues)
 
 ## Project setup
 ```
