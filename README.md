@@ -1,4 +1,7 @@
-# vue-jest
+# Vue Jest Unit Testing
+Implementation of unit testing in vue.js application using jest
+
+[![Node version](https://img.shields.io/node/v/6.1.0.svg?style=flat)](http://nodejs.org/download/)
 
 ## Project setup
 ```
