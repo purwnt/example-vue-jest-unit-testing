@@ -1,4 +1,7 @@
-# app6
+# Vue Jest Unit Testing
+Implementation of unit testing in vue.js application using jest
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/purwnt/example-vue-jest-unit-testing/issues)
 
 ## Project setup
 ```
